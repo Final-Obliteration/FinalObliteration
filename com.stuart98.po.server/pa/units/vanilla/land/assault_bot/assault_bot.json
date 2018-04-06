@@ -30,7 +30,7 @@
   "base_spec": "/pa/units/vanilla/land/base_bot/base_bot.json",
   "build_metal_cost": 90,
   "description": "Basic Assault Infantry - Cheap, decently armed and armored bot exceptional for assaulting defended locations.",
-  "display_name": "Dox",
+  "display_name": "Zerg",
   "events": {
     "build_complete": {
       "audio_cue": "/SE/Build_Complete/bot"

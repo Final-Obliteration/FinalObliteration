@@ -30,7 +30,7 @@
   "base_spec": "/pa/units/vanilla/land/base_vehicle/base_vehicle.json",
   "build_metal_cost": 280,
   "description": "Tank - Medium damage with good armor and medium speed, but mildly inaccurate.",
-  "display_name": "Ant",
+  "display_name": "DissonAnt",
   "events": {
     "build_complete": {
       "audio_cue": "/SE/Build_Complete/veh"

@@ -11,7 +11,7 @@
     "com.stuart98.po.client1.dev"
   ],
   "context": "server",
-  "date": "2017/10/06",
+  "date": "2018/04/06",
   "dependencies": [
     "com.stuart98.po.client1.dev",
     "com.stuart98.po.client2.dev"

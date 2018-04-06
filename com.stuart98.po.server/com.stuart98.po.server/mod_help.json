@@ -5,6 +5,7 @@
 	  "Sonar": "Submarines require sonar in order to be detected. Some naval units have sonar, but sonar structures have the longest range.",
     "Storage": "Storage is non-buildable by commanders. All factories and resource production structures increase storage slightly.",
 	"Lobber": "Long-range MLA Boom launcher.",
+	"Why can't I Halley": "It takes seven Halleys per standard engine requirements for MLA (They're significantly cheaper though). Legion Engines work as normal, however."
 	"Blue laser of death": "Multiple units fire some variation of a Blue laser of Death, or BLoD. These weapons have long range and high damage, but cost energy to fire and have long reload times. Swarm them with weak units.",
     "Alt-Fire": "Commander alt-fire depends on weapon. Uber Cannon alt-fire fires a barrage of AoE shots. Uber Missile alt-fire fires long-range missiles. Uber Laser alt-fire fires an extremely powerful laser that one-shots anything it hits.",
     "Why don't I have any metal?!": "Reclaiming wreckage is a useful action in this mod and has been facilitated with high HP combat fabbers that excel in this role.",

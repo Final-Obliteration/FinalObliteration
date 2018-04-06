@@ -6,10 +6,11 @@
     "Balance"
   ],
   "context": "client",
-  "date": "2017/10/06",
+  "date": "2018/04/06",
   "dependencies": [
     "com.stuart98.po.server.dev",
-    "com.stuart98.po.client2.dev"
+    "com.stuart98.po.client2.dev",
+	"com.wondible.pa.server_mod_help_chat"
   ],
   "description": "Legion + New Units + New Balance = New & Better Experience",
   "display_name": "Planetary Obliteration: Client Component",
