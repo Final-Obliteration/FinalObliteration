@@ -11,7 +11,7 @@
     "com.stuart98.po.client1.dev"
   ],
   "context": "server",
-  "date": "2018/04/06",
+  "date": "2018/04/10",
   "dependencies": [
     "com.stuart98.po.client1.dev",
     "com.stuart98.po.client2.dev"
@@ -29,6 +29,6 @@
     ]
   },
   "signature": "(not yet implemented)",
-  "version": "0.Alpha.16.2",
+  "version": "0.Alpha.16.3.1",
   "titansOnly": true
 }
