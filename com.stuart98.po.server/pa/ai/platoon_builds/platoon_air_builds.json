@@ -45,12 +45,6 @@
             "value0": 1
           },
           {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiAir",
-            "compare0": "<",
-            "value0": 420
-          },
-          {
             "test_type": "CanAttackWithPoolUnitsBomber",
             "string0": "WL_AnySurface",
             "string1": "WL_Air",
@@ -81,12 +75,6 @@
             "unit_type_string0": "Air & ((Bomber & Basic) | Gunship) - Titan",
             "compare0": ">=",
             "value0": 4
-          },
-          {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiAir",
-            "compare0": "<",
-            "value0": 1260
           },
           {
             "test_type": "CanAttackWithPoolUnitsBomber",
@@ -121,12 +109,6 @@
             "value0": 10
           },
           {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiAir",
-            "compare0": "<",
-            "value0": 2800
-          },
-          {
             "test_type": "CanAttackWithPoolUnitsBomber",
             "string0": "WL_AnySurface",
             "string1": "WL_Air",
@@ -157,12 +139,6 @@
             "unit_type_string0": "Air & ((Bomber & Basic) | Gunship) - Titan",
             "compare0": ">=",
             "value0": 20
-          },
-          {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiAir",
-            "compare0": "<",
-            "value0": 5600
           },
           {
             "test_type": "CanAttackWithPoolUnitsBomber",
@@ -229,12 +205,6 @@
             "value0": 1
           },
           {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiAir",
-            "compare0": "<",
-            "value0": 420
-          },
-          {
             "test_type": "CanAttackWithPoolUnitsBomber",
             "string0": "WL_AnySurface",
             "string1": "WL_Air",
@@ -265,12 +235,6 @@
             "unit_type_string0": "Air & Bomber & Advanced - Titan",
             "compare0": ">=",
             "value0": 4
-          },
-          {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiAir",
-            "compare0": "<",
-            "value0": 1260
           },
           {
             "test_type": "CanAttackWithPoolUnitsBomber",
@@ -305,12 +269,6 @@
             "value0": 10
           },
           {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiAir",
-            "compare0": "<",
-            "value0": 2800
-          },
-          {
             "test_type": "CanAttackWithPoolUnitsBomber",
             "string0": "WL_AnySurface",
             "string1": "WL_Air",
@@ -341,12 +299,6 @@
             "unit_type_string0": "Air & Bomber & Advanced - Titan",
             "compare0": ">=",
             "value0": 20
-          },
-          {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiAir",
-            "compare0": "<",
-            "value0": 5600
           },
           {
             "test_type": "CanAttackWithPoolUnitsBomber",
