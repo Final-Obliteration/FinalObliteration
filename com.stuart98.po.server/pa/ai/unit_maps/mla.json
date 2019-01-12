@@ -228,9 +228,6 @@
     "BoomBot": {
       "spec_id": "/pa/units/vanilla/land/bot_bomb/bot_bomb.json"
     },
-    "Commander": {
-      "unit_types": "Commander"
-    },
     "ControlModule": {
       "spec_id": "/pa/units/vanilla/land/control_module/control_module.json"
     },
