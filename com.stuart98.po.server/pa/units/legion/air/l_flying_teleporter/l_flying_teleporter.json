@@ -12,7 +12,7 @@
     }
   },
   "base_spec": "/pa/units/vanilla/air/base_flyer/base_flyer.json",
-  "build_metal_cost": 4000,
+  "build_metal_cost": 5000,
   "command_caps": [
     "ORDER_Move",
     "ORDER_Patrol",
