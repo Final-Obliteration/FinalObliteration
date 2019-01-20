@@ -1,12 +1,12 @@
 {
   "author": "Stuart98",
-  "build": "105067",
+  "build": "112595",
   "category": [
     "Units",
     "Balance"
   ],
   "context": "client",
-  "date": "2017/10/06",
+  "date": "2019/01/21",
   "dependencies": [
     "com.stuart98.po.server.dev",
     "com.stuart98.po.client1.dev"
@@ -20,6 +20,6 @@
   "identifier": "com.stuart98.po.client2.dev",
   "priority": 95,
   "signature": "(not yet implemented)",
-  "version": "0.Alpha.16.2",
+  "version": "0.Alpha.17",
   "titansOnly": true
 }

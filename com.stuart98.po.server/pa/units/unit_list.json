@@ -347,6 +347,7 @@
     "/pa/units/legion/orbital/l_orbital_battleship/l_orbital_battleship.json",
     "/pa/units/legion/orbital/l_orbital_lander/l_orbital_lander.json",
     "/pa/units/legion/orbital/l_orbital_laser/l_orbital_laser.json",
+    "/pa/units/legion/orbital/l_orbital_laser/l_nanobot/l_nanobot.json",
     "/pa/units/legion/orbital/l_orbital_launcher/l_orbital_launcher.json",
     "/pa/units/legion/orbital/l_radar_satellite/l_radar_satellite.json",
     "/pa/units/legion/orbital/l_radar_satellite_adv/l_radar_satellite_adv.json",

@@ -10,7 +10,7 @@
   "model": {
     "filename": ""
   },
-  "spawn_unit_on_death": "/pa/units/legion/air/l_air_carrier/l_drone/l_drone.json",
+  "spawn_unit_on_death": "/pa/units/legion/orbital/l_orbital_laser/l_nanobot/l_nanobot.json",
   "splash_damage": 0,
   "splash_damages_allies": false,
   "splash_radius": 0

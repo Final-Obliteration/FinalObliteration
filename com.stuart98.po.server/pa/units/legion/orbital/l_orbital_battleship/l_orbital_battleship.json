@@ -10,14 +10,14 @@
     }
   },
   "base_spec": "/pa/units/vanilla/orbital/base_orbital/base_orbital.json",
-  "build_metal_cost": 6000,
+  "build_metal_cost": 6500,
   "command_caps": [
     "ORDER_Move",
     "ORDER_Patrol",
     "ORDER_Attack",
     "ORDER_Assist"
   ],
-  "description": "Orbital Battleship - Heavily Armored. Attacks Everything.",
+  "description": "Orbital Battleship - Launches drones at planetary enemies. Heavily armored. Attacks land, air sea and orbital targets.",
   "display_name": "Imperator",
   "events": {
     "build_complete": {
@@ -152,6 +152,12 @@
       "muzzle_bone": "laser",
       "record_index": -1,
       "spec_id": "/pa/units/legion/orbital/l_orbital_battleship/l_orbital_battleship_tool_weapon_ground.json"
+    },
+    {
+      "aim_bone": "laser",
+      "muzzle_bone": "laser",
+      "record_index": 4,
+      "spec_id": "/pa/units/legion/orbital/l_orbital_battleship/l_orbital_battleship_tool_weapon_drone.json"
     }
   ],
   "unit_types": [

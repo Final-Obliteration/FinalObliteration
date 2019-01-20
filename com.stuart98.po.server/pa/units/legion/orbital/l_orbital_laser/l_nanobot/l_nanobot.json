@@ -15,16 +15,17 @@
   },
   "base_spec": "/pa/units/vanilla/land/base_bot/base_bot.json",
   "build_metal_cost": 30,
-  "description": "Metal Parasite - Extremely fast. Close range. Devastating damage. Attacks land, sea and seabed targets.",
-  "display_name": "Nanoswarm",
+  "description": "Hover Combat Drone - Equipped with powerful cutting lasers.",
+  "display_name": "Swarmling",
   "events": {
     "died": {
       "audio_cue": "/SE/Death/swarm",
       "effect_scale": 1.0
     },
     "fired": {
-      "audio_cue": "/SE/Weapons/bot/swarm",
-      "effect_spec": ""
+      "audio_cue": "/SE/Weapons/bot/sniper_fire",
+      "effect_scale": 0.8,
+      "effect_spec": "/pa/units/legion/land/l_sniper_bot/muzzle_flash_medium.pfx socket_muzzle001 /pa/units/legion/land/l_sniper_bot/muzzle_flash_medium.pfx socket_muzzle002"
     }
   },
   "fx_offsets": [
@@ -49,15 +50,15 @@
   ],
   "model": {
     "animations": {
-      "idle": "/pa/units/land/bot_nanoswarm/bot_nanoswarm_anim_idle.papa"
+      "hover": "/pa/units/land/tank_hover/tank_hover_anim_hover.papa"
     },
-    "animtree": "/pa/anim/anim_trees/bot_nanoswarm_anim_tree.json",
-    "filename": "/pa/units/land/bot_nanoswarm/bot_nanoswarm.papa"
+    "animtree": "/pa/units/legion/orbital/l_orbital_laser/l_nanobot/l_nanobot_anim_tree.json",
+    "filename": "/pa/units/legion/orbital/l_orbital_laser/l_nanobot/l_nanobot.papa"
   },
   "navigation": {
     "acceleration": 400,
     "brake": 400,
-    "move_speed": 60,
+    "move_speed": 20,
     "turn_speed": 1080,
     "type": "hover"
   },
@@ -83,12 +84,17 @@
   "spawn_layers": "WL_LandHorizontal",
   "tools": [
     {
-      "aim_bone": "bone_body",
-      "spec_id": "/pa/units/legion/land/l_swarm_hive/l_hive_nanoswarm/l_hive_nanoswarm_tool_weapon.json"
+      "aim_bone": "bone_pitch",
+      "muzzle_bone": [
+        "socket_muzzle001",
+        "socket_muzzle002"
+      ],
+      "projectiles_per_fire": 2,
+      "spec_id": "/pa/units/legion/orbital/l_orbital_laser/l_nanobot/l_nanobot_tool_weapon.json"
     },
     {
       "aim_bone": "bone_root",
-      "spec_id": "/pa/units/legion/land/l_swarm_hive/l_hive_nanoswarm/l_hive_nanoswarm_death_tool_weapon.json"
+      "spec_id": "/pa/units/legion/orbital/l_orbital_laser/l_nanobot/l_nanobot_death_tool_weapon.json"
     }
   ],
   "unit_types": [
