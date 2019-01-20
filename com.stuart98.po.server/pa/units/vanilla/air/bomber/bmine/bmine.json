@@ -2,7 +2,7 @@
   "TEMP_texelinfo": 2.37699,
   "area_build_separation": 1.0,
   "area_build_type": "Sphere",
-  "build_metal_cost": 0,
+  "build_metal_cost": 1,
   "description": "!LOC:Land mine- Detonates when enemy units are in proximity.",
   "display_name": "!LOC:Land Mine",
   "events": {
@@ -23,7 +23,6 @@
   "model": {
     "filename": "/pa/units/sea/sea_mine/sea_mine.papa"
   },
-  "passive_health_regen": -1,
   "physics": {
     "allow_pushing": false,
     "allow_underground": false,
@@ -62,6 +61,10 @@
       "aim_bone": "bone_root",
       "muzzle_bone": "bone_root",
       "spec_id": "/pa/units/vanilla/air/bomber/bmine/bmine_tool_weapon.json"
+    },
+    {
+      "aim_bone": "bone_root",
+      "spec_id": "/pa/units/vanilla/air/bomber/bmine/bmine_death_tool_weapon.json"
     }
   ],
   "unit_types": [
