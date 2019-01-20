@@ -55,7 +55,8 @@
     "filename": "/pa/units/land/bot_nanoswarm/bot_nanoswarm.papa"
   },
   "navigation": {
-    "acceleration": 60,
+    "acceleration": 400,
+    "brake": 400,
     "move_speed": 60,
     "turn_speed": 1080,
     "type": "hover"

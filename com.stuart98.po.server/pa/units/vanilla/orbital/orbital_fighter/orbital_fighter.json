@@ -70,11 +70,11 @@
     "aggressive_behavior": "line",
     "aggressive_distance": 50,
     "bank_factor": 5,
-    "brake": 20,
+    "brake": 30,
     "circle_max_time": 4,
     "circle_min_time": 2,
     "hover_time": -1.0,
-    "move_speed": 70,
+    "move_speed": 85,
     "turn_speed": 200,
     "type": "orbital"
   },

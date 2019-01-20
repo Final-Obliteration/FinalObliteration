@@ -66,7 +66,7 @@
       "type": "moving_forward"
     }
   ],
-  "max_health": 280,
+  "max_health": 315,
   "mesh_bounds": [
     13.42,
     22.2,
@@ -80,8 +80,8 @@
     "filename": "/pa/units/legion/air/l_transport/l_transport.papa"
   },
   "navigation": {
-    "acceleration": 10,
-    "brake": 10,
+    "acceleration": 15,
+    "brake": 15,
     "move_speed": 55,
     "turn_speed": 160,
     "vertical_speed": 75
