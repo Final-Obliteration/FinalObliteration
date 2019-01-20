@@ -203,8 +203,8 @@
     {
       "aim_bone": "bone_turret",
       "muzzle_bone": [
-        "socket_leftMuzzle",
-        "socket_rightMuzzle"
+        "socket_muzzleLeft",
+        "socket_muzzleRight"
       ],
       "spec_id": "/pa/units/vanilla/land/tank_attack/tank_attack_tool_weapon.json"
     }
