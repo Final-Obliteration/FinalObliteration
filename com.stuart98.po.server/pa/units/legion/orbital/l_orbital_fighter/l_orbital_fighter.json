@@ -63,12 +63,12 @@
   },
   "navigation": {
     "acceleration": 60,
-    "turn_in_place": true,
     "bank_factor": 1,
     "brake": 30,
     "circle_max_time": 4,
     "circle_min_time": 2,
     "move_speed": 70,
+    "turn_in_place": true,
     "turn_speed": 100
   },
   "physics": {
