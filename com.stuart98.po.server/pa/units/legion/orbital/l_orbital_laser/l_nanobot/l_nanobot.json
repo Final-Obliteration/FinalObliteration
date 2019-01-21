@@ -28,21 +28,9 @@
       "effect_spec": "/pa/units/legion/land/l_sniper_bot/muzzle_flash_medium.pfx socket_muzzle001 /pa/units/legion/land/l_sniper_bot/muzzle_flash_medium.pfx socket_muzzle002"
     }
   },
-  "fx_offsets": [
-    {
-      "bone": "bone_body",
-      "filename": "/pa/effects/specs/nanoswarm_idle.pfx",
-      "offset": [
-        0,
-        0,
-        0
-      ],
-      "type": "idle"
-    }
-  ],
   "guard_layer": "WL_LandHorizontal",
   "guard_radius": 300,
-  "max_health": 80,
+  "max_health": 160,
   "mesh_bounds": [
     1,
     1,
