@@ -1,6 +1,4 @@
 {
-  "description": "Basic turret - Equipped with direct fire anti-land, and anti-ship defenses.",
-  "display_name": "Purifier",
   "TEMP_texelinfo": 10.2184,
   "area_build_separation": 18,
   "atrophy_cool_down": 15,
@@ -10,6 +8,8 @@
   "death": {
     "decals": []
   },
+  "description": "Basic turret - Equipped with direct fire anti-land, and anti-ship defenses.",
+  "display_name": "Purifier",
   "events": {
     "died": null,
     "fired": null
