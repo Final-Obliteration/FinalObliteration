@@ -14,7 +14,7 @@
   "burn_damage": 0,
   "burn_radius": 0,
   "cruise_height": 20,
-  "damage": 30,
+  "damage": 20,
   "damage_volume": {
     "burnable_remove_radius": 0.0,
     "delay": 0,
@@ -48,8 +48,8 @@
     "gravity_scalar": 1,
     "radius": 10
   },
-  "splash_damage": 30,
-  "splash_radius": 18,
+  "splash_damage": 20,
+  "splash_radius": 12,
   "stages": [
     {
       "ignores_LOS": true,

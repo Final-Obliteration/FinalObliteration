@@ -8,7 +8,7 @@
       "effect_spec": "/pa/effects/specs/default_proj_explosion.pfx"
     }
   },
-  "initial_velocity": 10,
+  "initial_velocity": 80,
   "lifetime": 5,
   "max_velocity": 80,
   "model": {
@@ -17,5 +17,5 @@
   "splash_damage": 0,
   "splash_damages_allies": false,
   "splash_radius": 0,
-  "turn_rate": 180
+  "turn_rate": 360
 }
