@@ -36,7 +36,7 @@
     },
     "fired1": {
       "audio_cue": "/SE/Weapons/sea/drone_carrier_fire",
-      "effect_spec": "/pa/units/vanilla/sea/drone_carrier/carrier/carrier_drone_launch.pfx bone_root"
+      "effect_spec": "/pa/units/sea/drone_carrier/carrier/carrier_drone_launch.pfx bone_root"
     },
     "fired2": {
       "audio_cue": "/SE/Weapons/bot/sniper_fire_anti_tac",

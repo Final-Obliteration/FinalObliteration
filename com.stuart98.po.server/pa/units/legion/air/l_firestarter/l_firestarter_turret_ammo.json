@@ -9,14 +9,13 @@
     }
   },
   "full_damage_splash_radius": 0,
-  "influence_radius": 400,
   "initial_velocity": 15.0,
   "lifetime": 7,
   "max_velocity": 15.0,
   "model": {
     "filename": "/pa/units/air/unit_shell_small/unit_shell_small.papa"
   },
-  "spawn_unit_on_death": "/pa/units/legion/air/l_firestarter/l_drop_turret/l_drop_turret.json",
+  "spawn_unit_on_death": "/pa/units/legion/air/l_firestarter/l_drop_turret/l_drop_turret_collision_check.json",
   "splash_damage": 0,
   "splash_radius": 0
 }

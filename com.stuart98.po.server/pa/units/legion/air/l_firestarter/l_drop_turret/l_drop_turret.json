@@ -8,7 +8,7 @@
   "command_caps": [
     "ORDER_Attack"
   ],
-  "description": "Basic turret- Equipped with direct fire anti-land, and anti-ship defenses.",
+  "description": "Basic turret - Equipped with direct fire anti-land, and anti-ship defenses.",
   "display_name": "Purifier",
   "events": {
     "build_complete": {
@@ -32,7 +32,7 @@
   ],
   "model": [
     {
-      "animtree": "/pa/anim/anim_trees/defense_turret_single_anim_tree.json",
+      "animtree": "/pa/anim/anim_trees/l_defense_turret_no_recoil_anim_tree.json",
       "filename": "/pa/units/legion/air/l_firestarter/l_drop_turret/l_drop_turret.papa",
       "layer": "WL_LandHorizontal",
       "skirt_decal": "/pa/effects/specs/skirt_defense.json"
