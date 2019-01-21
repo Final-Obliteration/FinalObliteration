@@ -28,7 +28,7 @@
     }
   },
   "base_spec": "/pa/units/vanilla/land/base_bot/base_bot.json",
-  "build_metal_cost": 135,
+  "build_metal_cost": 90,
   "death_weapon": {
     "air_ammo_spec": "/pa/units/vanilla/land/bot_bomb/bot_bomb_ammo_air.json",
     "air_height_threshold": 7,
@@ -70,7 +70,7 @@
   "navigation": {
     "acceleration": 400,
     "brake": 400,
-    "move_speed": 30,
+    "move_speed": 35,
     "turn_speed": 720,
     "type": "amphibious"
   },

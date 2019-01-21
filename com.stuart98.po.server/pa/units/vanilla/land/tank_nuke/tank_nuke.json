@@ -141,7 +141,7 @@
       "radius": 2.0
     }
   ],
-  "max_health": 4000,
+  "max_health": 5000,
   "mesh_bounds": [
     12,
     14.5,
@@ -156,10 +156,10 @@
     "filename": "/pa/units/land/tank_nuke/tank_nuke.papa"
   },
   "navigation": {
-    "acceleration": 16,
-    "brake": 16,
+    "acceleration": 18,
+    "brake": 18,
     "group_preference": "front",
-    "move_speed": 16,
+    "move_speed": 18,
     "turn_accel": 15,
     "turn_speed": 30,
     "type": "amphibious"
