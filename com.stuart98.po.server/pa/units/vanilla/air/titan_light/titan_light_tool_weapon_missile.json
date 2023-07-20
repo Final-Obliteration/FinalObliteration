@@ -3,7 +3,7 @@
   "ammo_source": "infinite",
   "base_spec": "/pa/tools/base_missile_turret/base_missile_turret.json",
   "max_range": 400,
-  "rate_of_fire": 0.75,
+  "rate_of_fire": 1.5,
   "target_layers": [
     "WL_Air"
   ],
